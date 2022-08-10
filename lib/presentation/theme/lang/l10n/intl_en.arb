@@ -1,0 +1,15 @@
+{
+  "@@locale": "en",
+  "appName": "SWIM",
+  "theme": "Theme",
+  "themeDark": "Dark",
+  "themeLight": "Light",
+  "text": "Test",
+  "home": "Home",
+  "cart": "Cart",
+  "my": "My",
+  "test": "Test",
+  "currentLang": "Current Language",
+  "homeHeroTitle": "Items to pay attention to",
+  "homeHeroSubTitle": "The Balenciaga city bag, which was completely popular in the 2000s, is collecting. You can still find it at a good price."
+}

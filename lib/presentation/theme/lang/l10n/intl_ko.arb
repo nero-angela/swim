@@ -1,0 +1,15 @@
+{
+  "@@locale": "ko",
+  "appName": "SWIM",
+  "theme": "테마",
+  "themeDark": "다크",
+  "themeLight": "라이트",
+  "text": "테스트",
+  "home": "홈",
+  "cart": "상품 보관함",
+  "my": "마이",
+  "test": "테스트",
+  "currentLang": "현재 언어",
+  "homeHeroTitle": "주목해야 할 아이템",
+  "homeHeroSubTitle": "2000년대 완전 유행하던 발렌시아가 시티백을 모으고 있다죠. 아직까지 착한 가격으로 만나보세요."
+}
